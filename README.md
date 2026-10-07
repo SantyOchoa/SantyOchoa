@@ -7,10 +7,8 @@
 ---
 
 ### 🚀 Sobre mí
-* 🔭 Actualmente estoy trabajando en ...
-* 🌱 Actualmente estoy aprendiendo ...
-* 💬 Pregúntame sobre ...
-* 📫 Cómo contactarme: [tu-email@example.com](mailto:tu-email@example.com) o en [LinkedIn](https://linkedin.com)
+* 🔭 Actualmente estoy trabajando en mi Propia Barberia
+* 🌱 Actualmente estoy aprendiendo Programacion
 
 ---
 
